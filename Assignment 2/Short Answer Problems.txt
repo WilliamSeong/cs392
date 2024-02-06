@@ -1,0 +1,9 @@
+Figure 1-49 shows the Visual Studio IDE. What are the names of the four areas that are indicated in the figure?
+	1) Toolbox Window
+	2) Designer Window
+	3) Solution Explorer Window
+	4) Properties Window
+	
+
+What is the purpose of the Toolbox in the Visual Studio environment?
+	Toolbox allows you to select the controls that you want to use in an application's user interface.

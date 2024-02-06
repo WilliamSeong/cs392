@@ -1,0 +1,10 @@
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\JokeAndPunchLine\bin\Debug\JokeAndPunchLine.exe.config
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\JokeAndPunchLine\bin\Debug\JokeAndPunchLine.exe
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\JokeAndPunchLine\bin\Debug\JokeAndPunchLine.pdb
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\JokeAndPunchLine\obj\Debug\JokeAndPunchLine.csproj.AssemblyReference.cache
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\JokeAndPunchLine\obj\Debug\JokeAndPunchLine.Form1.resources
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\JokeAndPunchLine\obj\Debug\JokeAndPunchLine.Properties.Resources.resources
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\JokeAndPunchLine\obj\Debug\JokeAndPunchLine.csproj.GenerateResource.cache
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\JokeAndPunchLine\obj\Debug\JokeAndPunchLine.csproj.CoreCompileInputs.cache
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\JokeAndPunchLine\obj\Debug\JokeAndPunchLine.exe
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\JokeAndPunchLine\obj\Debug\JokeAndPunchLine.pdb

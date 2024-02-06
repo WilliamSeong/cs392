@@ -1,0 +1,10 @@
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\HeadOrTail\bin\Debug\HeadOrTail.exe.config
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\HeadOrTail\bin\Debug\HeadOrTail.exe
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\HeadOrTail\bin\Debug\HeadOrTail.pdb
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\HeadOrTail\obj\Debug\HeadOrTail.csproj.AssemblyReference.cache
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\HeadOrTail\obj\Debug\HeadOrTail.Form1.resources
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\HeadOrTail\obj\Debug\HeadOrTail.Properties.Resources.resources
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\HeadOrTail\obj\Debug\HeadOrTail.csproj.GenerateResource.cache
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\HeadOrTail\obj\Debug\HeadOrTail.csproj.CoreCompileInputs.cache
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\HeadOrTail\obj\Debug\HeadOrTail.exe
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\HeadOrTail\obj\Debug\HeadOrTail.pdb

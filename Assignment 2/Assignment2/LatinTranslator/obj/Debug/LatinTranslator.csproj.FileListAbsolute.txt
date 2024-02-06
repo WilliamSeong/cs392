@@ -1,0 +1,10 @@
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\LatinTranslator\bin\Debug\LatinTranslator.exe.config
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\LatinTranslator\bin\Debug\LatinTranslator.exe
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\LatinTranslator\bin\Debug\LatinTranslator.pdb
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\LatinTranslator\obj\Debug\LatinTranslator.csproj.AssemblyReference.cache
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\LatinTranslator\obj\Debug\LatinTranslator.Properties.Resources.resources
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\LatinTranslator\obj\Debug\LatinTranslator.csproj.GenerateResource.cache
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\LatinTranslator\obj\Debug\LatinTranslator.csproj.CoreCompileInputs.cache
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\LatinTranslator\obj\Debug\LatinTranslator.exe
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\LatinTranslator\obj\Debug\LatinTranslator.pdb
+C:\Users\seong\OneDrive\BU\Year4\Semester2\cs392\Assignment 2\Assignment2\LatinTranslator\obj\Debug\LatinTranslator.form1.resources
